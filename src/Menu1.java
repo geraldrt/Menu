@@ -15,8 +15,9 @@ public class Menu1 {
 	private JFrame frame;
 
 	/**
-	 * Launch the application.
+	 * Cambios hechos
 	 */
+	
 	public static void main(String[] args) {
 		EventQueue.invokeLater(new Runnable() {
 			public void run() {
